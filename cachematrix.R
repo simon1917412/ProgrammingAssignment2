@@ -1,4 +1,6 @@
 
+##Functions that create a Matrix Object and cache the inverse, and calculate the inverse if it has not already been calculated
+
 ## This function creates a Matrix Object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
